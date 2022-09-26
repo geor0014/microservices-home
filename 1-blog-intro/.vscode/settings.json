@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///home/georgiev098/Code/Home/Microservices/1-blog-intro/infra/k8s/posts-depl.yaml"
+    }
+}
