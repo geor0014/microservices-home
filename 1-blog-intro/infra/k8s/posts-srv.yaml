@@ -8,6 +8,7 @@ spec:
     app: posts
   ports:
     - name: posts
+      nodePort: 30000
       protocol: TCP
       port: 4000
       targetPort: 4000
